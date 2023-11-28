@@ -1,7 +1,4 @@
-# flutter_avaliacao
-
-A new Flutter project.
-
+# Avaliação final de flutter.
 ## Criterios de avaliação
 
 Desenvolvimento do escopo passado
